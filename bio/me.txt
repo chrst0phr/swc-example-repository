@@ -1,0 +1,3 @@
+git add me.txtName; chris date; today auhor: chris also! git commit -m "new biography file" 
+nano me.txt git add me.txt git diff
+git commit -m "changed the first line; added the fourth line"
